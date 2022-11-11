@@ -31,7 +31,7 @@ The RBF of hidden neuron as gaussian function
 
 
 ## ALGORIHM:
-
+```
 1.Import the necessary libraries of python.
 
 2.In the end_to_end function, first calculate the similarity between the inputs and the peaks.
@@ -52,7 +52,7 @@ The RBF of hidden neuron as gaussian function
       edge joining 2nd node (peak2 output) to the output node
       bias edge
 
-
+```
 
 ## PROGRAM:
 ```
